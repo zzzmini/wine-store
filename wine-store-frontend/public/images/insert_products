@@ -1,0 +1,10 @@
+INSERT INTO products (name, description, price, stock, country, region, grape_variety, vintage, image_url) 
+VALUES ('Chteau Margaux', 'Elegant and rich red wine from Bordeaux.', 180000.00, 10, 'France', 'Bordeaux', 'Cabernet Sauvignon', 2018, '/images/margaux.jpg');
+INSERT INTO products (name, description, price, stock, country, region, grape_variety, vintage, image_url) 
+VALUES ('Screaming Eagle', 'Iconic Napa Valley wine with bold character.', 250000.00, 8, 'USA', 'Napa Valley', 'Cabernet Sauvignon', 2020, '/images/screaming-eagle.jpg');
+INSERT INTO products (name, description, price, stock, country, region, grape_variety, vintage, image_url) 
+VALUES ('Opus One', 'Prestigious Bordeaux blend from Napa.', 350000.00, 12, 'USA', 'Napa Valley', 'Bordeaux Blend', 2019, '/images/opus-one.jpg');
+INSERT INTO products (name, description, price, stock, country, region, grape_variety, vintage, image_url) 
+VALUES ('Ch?teau Lafite Rothschild', 'Classic Pauillac wine with deep complexity.', 450000.00, 6, 'France', 'Pauillac', 'Cabernet Sauvignon', 2016, '/images/lafite.jpg');
+INSERT INTO products (name, description, price, stock, country, region, grape_variety, vintage, image_url) 
+VALUES ('Domaine de la Roman?e-Conti', 'Rare Burgundy Pinot Noir of legendary quality.', 550000.00, 3, 'France', 'Burgundy', 'Pinot Noir', 2018, '/images/drc.jpg');
